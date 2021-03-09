@@ -1,0 +1,194 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #0a0a0a;
+
+  background: #05c1e2 url("img/bg-page.png") no-repeat top center;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: normal;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: normal;
+  text-align: center;
+}
+
+pre {
+  padding: 5px;
+}
+
+code {
+  padding: 2px 5px;
+}
+
+pre code {
+  background-color: transparent;
+  border-radius: 0;
+  border: none;
+}
+
+
+blockquote {
+  padding-left: 14px;
+  border-left: 2px solid #6a2cce;
+
+  color: #6a2cce;
+}
+
+cite {
+  color: #222222;
+}
+
+time {
+  color: #6a2cce;
+}
+
+a[href] {
+  color: #0497e0;
+  text-decoration: underline;
+}
+
+ins {
+  color: rgb(105, 178, 83);
+}
+
+del,
+ins {
+  text-decoration: none;
+}
+
+em,
+i {
+  font-style: normal;
+}
+
+.avatar {
+  border-radius: 40%;
+}
+
+.avatar-container {
+  text-align: left;
+}
+
+.blog-navigation {
+  margin-bottom: 10px;
+  padding: 10px;
+
+  background-color: rgba(121, 163, 247, 0.7);
+  border: 5px solid #008d8d;
+
+  color: #ffffff;
+}
+
+.blog-navigation h2 {
+  margin-top: 0;
+}
+
+.blog-navigation ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.blog-navigation li {
+  margin-bottom: 5px;
+}
+
+.blog-navigation a {
+  color: #ffffff;
+}
+
+.skills dd {
+  margin: 0;
+  margin-bottom: 10px;
+
+  background-color: #e8e8e8;
+}
+
+.skills-level-ok {
+  background-color: #02470950;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
+
+figcaption {
+  width: 502px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(202, 224, 248);
+}
+
+.pagination a {
+  display: inline-block;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+.pagination {
+  text-align: center;
+  color: #888888;
+}
+
+.danger-text {
+  color: #ff4400;
+}
+
+.danger-block {
+  padding: 5px 10px;
+  background-color: #ffd0bf;
+}
+
+.no-danger-block {
+  padding: 5px 10px;
+  background-color: #c6f5f0;
+}
+
+footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  color: #030303;
+  border-top: 1px solid #807e7e;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.italic {
+  font-style: italic;
+}
